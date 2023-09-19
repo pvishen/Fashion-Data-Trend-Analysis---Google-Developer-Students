@@ -1,0 +1,50 @@
+Article,Fit,Material,Color,Embellishment,Sleeve-type,Neckline,Cropped,Length,Rise ,Pockets
+top,fiitted,corset,black,ruffles,sleeveless,heart,FALSE,NA,NA,FALSE
+top,loose,mohair,white,crochet,sleeveless,v-neck,FALSE,NA,NA,FALSE
+top,fitted,cotton,multicolored,crochet,sleeveless,v-neck,TRUE,NA,NA,FALSE
+top,loose,crochet,black,floral,sleevless,v-neck,TRUE,NA,NA,FALSE
+top,fitted,crochet,pastels,pattern,sleevelss,halter,TRUE,NA,NA,FALSE
+top,fitted,NA,purple,NA,long,round,TRUE,NA,NA,FALSE
+top,fitted,tapestry,multicolored,floral ,short,sweetheart,TRUE,NA,NA,FALSE
+top,fitted,cotton,white ,floral,long,round,FALSE,NA,NA,FALSE
+top,fitted,lace,black,floral,sleeveless,sleeveless,FALSE,NA,NA,FALSE
+top,fitted,mesh,white,polka dots,short,v-neck,FALSE,NA,NA,FALSE
+top,fitted,NA,white,NA,straps,round,FALSE,NA,NA,FALSE
+top,fitted,NA,red,tie dye ,long,round,FALSE,NA,NA,FALSE
+top,loose,mesh,white,crochet,long,v-neck,FALSE,NA,NA,FALSE
+top,fitted,corset,black,lace,straps,heart,FALSE,NA,NA,FALSE
+top,loose,cotton,blue,graphics,short,round,FALSE,NA,NA,FALSE
+top,loose,NA,gray,graphics,short,round,TRUE,NA,NA,FALSE
+top,loose,NA,white,graphics,short,round,FALSE,NA,NA,FALSE
+top,loose,NA,multicolored,ruffle,sleeveless,v-neck,FALSE,NA,NA,FALSE
+dress,straight,crochet,multicolored,pattern,sleeveless,round,NA,mini,NA,FALSE
+dress,fitted,rayon,pink,floral,sleeveless,round,NA,midi,NA,FALSE
+dress,loose,NA,multicolored,gingham,short,collared,NA,midi,NA,FALSE
+dress,fitted ,NA,black,pattern,sleeveless,v-neck,NA,midi,NA,FALSE
+dress,loose,NA,black,NA,sleeveless,heart,NA,midi,NA,FALSE
+dress,loose,NA,green,floral,sleeveless,v-neck,NA,midi,NA,FALSE
+dress,loose,NA,pink,bows,short,round,NA,midi,NA,FALSE
+dress,straight,velvet,black,pattern,long,round,NA,midi,NA,FALSE
+dress,fitted,cotton,white,NA,sleeveless,v-neck,NA,mini,NA,FALSE
+dress,fitted,NA,black,sheer,long,v-neck,NA,midi,NA,FALSE
+dress,loose,NA,red,sheer,sleeveless,round,NA,mini,NA,FALSE
+dress,fitted,NA,green,NA,short,v-neck,NA,midi,NA,FALSE
+dress,fitted,NA,black,floral,strap,cowel,NA,maxi,NA,FALSE
+dress,fitted,NA,green,NA,short,square ,NA,midi,NA,FALSE
+dress,fit-flare,NA,grey,layers,halter,straight,NA,mini,NA,FALSE
+dress,loose,NA,white,floral,straps,square ,NA,midi,NA,FALSE
+skirt ,fitted,denim,denim,NA,NA,NA,NA,mini,low,TRUE
+skirt ,straight,denim,denim,NA,NA,NA,NA,maxi,mid,TRUE
+skirt ,fitted ,NA,black,NA,NA,NA,NA,asymmetrical,high,FALSE
+skirt ,fit-flare,cargo,beige,lace,NA,NA,NA,mini,low,TRUE
+skirt ,fitted,cotton,yellow,graphics,NA,NA,NA,mini,mid,FALSE
+skirt ,fitted,Nylon,black,lace,NA,NA,NA,mini,low,FALSE
+skirt ,loose,NA,navy,floral,NA,NA,NA,maxi,high,FALSE
+skirt ,loose,NA,black,pleated,NA,NA,NA,mini,low,FALSE
+shorts,loose,denim,blue,NA,NA,NA,NA,midi,high,TRUE
+shorts,wide ,linen,beige,NA,NA,NA,NA,midi,high,TRUE
+pants,loose,denim,denim,NA,NA,NA,NA,NA,mid,TRUE
+pants,fit-flare,denim,denim,NA,NA,NA,NA,NA,low,FALSE
+pants,loose,denim,denim,graphics,NA,NA,NA,NA,high,TRUE
+pants,straight,satin,black,floral,NA,NA,NA,NA,mid,TRUE
+pants,loose,cotton,brown,NA,NA,NA,NA,NA,mid,TRUE
